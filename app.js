@@ -1,3 +1,8 @@
+//git add app.js 
+//git commit -m "app.js new file"
+//git push
+
+
 var events = require('events'); // Import events module
 var eventEmitter = new events.EventEmitter(); // Create an eventEmitter object
 
